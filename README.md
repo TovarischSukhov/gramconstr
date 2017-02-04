@@ -64,3 +64,5 @@ X тяготеет к местоимениям.
  0 | 115 | 40
  1 |  7  | 91
 
+##Ссылки
+[Код](https://github.com/TovarischSukhov/gramconstr/blob/master/data/handout.ipynb) [Данные](https://github.com/TovarischSukhov/gramconstr/blob/master/data/data%20-%20stable.tsv)
